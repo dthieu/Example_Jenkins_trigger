@@ -7,7 +7,7 @@ int main() {
   cout << "Hello world!" << endl;
   cout << "See ya!" << endl;
   cout << "PI = " << PI << endl;
-  
+  cout << "end of prog" << endl;
   
   return 0;
 }

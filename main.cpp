@@ -8,7 +8,7 @@ int main() {
   cout << "See ya!" << endl;
   cout << "PI = " << PI << endl;
   cout << "end of prog" << endl;
-  cout << "To be continue!" << endl;
+  cout << " To be continue!" << endl;
   return 0;
 }
 
